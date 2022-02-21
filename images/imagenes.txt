@@ -1,0 +1,1 @@
+se crea este archivo para poder crear la carpeta imagenes donde se alojarán las imagenes de nuestro sitio web
